@@ -2,9 +2,9 @@
 
 
 /**
- * main _ The main function
- * 1 and 2, seperated by a comma
- * Return: 0.
+ * main -  a program that finds and prints the first 98 Fibonacci numbers
+ *
+ * Return: Always 0 (Sucess)
  */
 
 
