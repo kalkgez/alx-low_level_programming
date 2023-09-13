@@ -1,9 +1,9 @@
 #include "main.h"
 
 /**
- * main - This is the _putchar function
+ * main - A program that outputs _putchar
  *
- * Return: Always 0 (Success)
+ * Return: 0
  */
 
 int main(void)
@@ -16,5 +16,8 @@ int main(void)
 	_putchar('h');
 	_putchar('a');
 	_putchar('r');
+	_putchar('\n');
 	return (0);
+
 }
+
