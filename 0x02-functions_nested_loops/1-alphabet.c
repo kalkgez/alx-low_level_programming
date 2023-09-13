@@ -10,7 +10,7 @@ void print_alphabet(void)
 {
 	char lowercase = 'a';
 
-	while (lowercase < 'z')
+	while (lowercase <= 'z')
 	{
 		_putchar(lowercase);
 		lowercase++;
